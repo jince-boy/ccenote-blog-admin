@@ -1,0 +1,30 @@
+{
+  "name": "blog",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^0.2.6",
+    "@vueuse/core": "^9.6.0",
+    "@wangeditor/editor": "^5.1.22",
+    "@wangeditor/editor-for-vue": "^5.1.12",
+    "axios": "^1.2.2",
+    "default-passive-events": "^2.0.0",
+    "element-plus": "^2.2.14",
+    "less": "^4.1.2",
+    "less-loader": "^10.2.0",
+    "nprogress": "^0.2.0",
+    "screenfull": "^6.0.1",
+    "vue": "^3.2.32",
+    "vue-number-animation": "^1.1.2",
+    "vue-router": "^4.0.12",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.2.0",
+    "vite": "^3.2.3"
+  }
+}
